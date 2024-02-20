@@ -1,0 +1,1 @@
+## all code related to transformation of data , how to change categorial features to ordinal feaatures 
